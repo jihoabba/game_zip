@@ -1,0 +1,1 @@
+{"name":"nemo-bakery","version":"1.0.0","private":true,"type":"module","dependencies":{"phaser":"3.90.0"},"scripts":{"test":"node --test tests/*.test.js"}}
